@@ -15,7 +15,7 @@ TODO
 - [x] turn it into a class.
 - [x] allow it to accept strings, filenames and or file handles.
 - [x] line tracking for better error messages.
-- [ ] make it available on pypy, setup.py compatible.
+- [ ] make it available on pypi, setup.py compatible.
 - [ ] more documentation.
 - [ ] better strict mode.
 - [ ] better checking of valid arguments.
