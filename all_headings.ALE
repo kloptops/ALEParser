@@ -1,0 +1,15 @@
+Heading
+FIELD_DELIM	TABS
+VIDEO_FORMAT	NTSC
+FILM_FORMAT	35mm, 4 perf
+AUDIO_FORMAT	44khz
+FPS	24
+Column
+Name	Tracks	Start	End	Duration	Mark IN	Mark OUT	IN-OUT	Tape	Auxiliary TC1	Video	Color Framing	Audio	Disk	Creation Date	Camera	Camroll	Auxiliary TC3	TC 24	KN Mark OUT	Ink Number	Audio Format	KN Duration	Labroll	Take	Shoot Date	Film TC	Offline	Lock	Project	KN IN-OUT	FPS	Sound TC	Pullin	Pullout	Reel #	KN Mark IN	TC 25	Auxiliary TC5	KN Start	Auxiliary TC4	Perf	Film Type	Auxiliary TC2	Slip	Scene	CFPS	Frame	Color	Media File	Modified Date	TC 30	Soundroll	TapeID	VITC	KN End	Auxiliary Ink	TC 25P
+
+Data
+01	VA1A2	01:00:00:00	01:10:00:00	10:00:00	01:00:01:08	01:00:02:15	       1:07	253		14:1	Even	44 kHz		10/2/01 9:49:06 AM				01:00:00:00	   6+11		AIFF-C	 900+00					V1 A1-2	   	24p ntsc for edl import	   1+14	24.00		A	D		   4+14			-0003+00		3					24.00		   		10/2/01 9:49:06 AM					0902+15		
+02	VA1A2	02:00:00:00	02:10:00:00	10:00:00				253		14:1	Even	44 kHz		10/2/01 9:49:06 AM				02:00:00:00			AIFF-C	 900+00					V1 A1-2	   	24p ntsc for edl import		24.00		A	D							1					24.00		   		10/2/01 9:49:06 AM							
+03	VA1A2	03:00:00:00	03:10:00:00	10:00:00				253		14:1	Even	44 kHz		10/2/01 9:49:06 AM				03:00:00:00			AIFF-C	 900+00					V1 A1-2	   	24p ntsc for edl import		24.00		A	D							1					24.00		   		10/2/01 9:49:06 AM							
+04	VA1A2	04:00:00:00	04:10:00:00	10:00:00				253		14:1	Even	44 kHz		10/2/01 9:49:06 AM				04:00:00:00			AIFF-C	 900+00					V1 A1-2	   	24p ntsc for edl import		24.00		A	D							1					24.00		   		10/2/01 9:49:06 AM							
+253	VA1A2A3A4	00:00:00:00	23:59:59:29	23:59:59:29				253		1:1	Even	44 kHz		10/2/01 9:48:19 AM							AIFF-C	9599+15					V1 A1-4	   			24.00		A	C							1					30.00		   		10/2/01 9:48:23 AM							
