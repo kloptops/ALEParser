@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
 name='aleparser',
-    version='0.1',
+    version='0.1.1',
     description='A simple python ALE (AvidLogExchange) parser.',
     author='Jacob Smith',
     author_email='kloptops@gmail.com',
