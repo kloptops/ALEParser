@@ -9,7 +9,7 @@ name='aleparser',
     author='Jacob Smith',
     author_email='kloptops@gmail.com',
     license = 'Public Domain',
-    url='https://github.com/kloptops',
+    url='https://github.com/kloptops/ALEParser',
     packages=['aleparser'],
     classifiers = [
         'Development Status :: 4 - Beta',
