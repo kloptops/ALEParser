@@ -1,0 +1,10 @@
+Heading
+FIELD_DELIM	TABS
+VIDEO_FORMAT	NTSC
+AUDIO_FORMAT	44kHz
+TAPE	001
+FPS	29.97
+Column
+Name	Tracks	Start	End
+Data
+CU Josh & Mary	V	01:00:00:00	01:15:05:00

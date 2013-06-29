@@ -19,7 +19,13 @@ TODO
 - [ ] more documentation.
 - [ ] better strict mode.
 - [ ] better checking of valid arguments.
-- [ ] better testing framework.
+- [x] better testing framework.
+
+Tests
+-----
+
+Run tests with nose and coverage:
+nosetests --with-coverage --cover-html --cover-package=aleparser --cover-min-percentage=90
 
 License
 -------

@@ -51,7 +51,7 @@ class ALEParser(object):
     """
 
     def __init__(self, source=None, source_name=None, strict=False):
-        self.strict = strict=False
+        self.strict = strict
         if source is not None:
             self.set_source(source, source_name)
         else:
@@ -212,6 +212,9 @@ class ALEParser(object):
     def _parse_column(self):
         if len(self.columns) != 0:
             raise self._SyntaxError('Columns already defined')
+
+        if '\t' not in self._line:
+            raise self._SyntaxError('Malformed column definition')
 
         self.columns = map(str.strip, self._line.split('\t'))
 
